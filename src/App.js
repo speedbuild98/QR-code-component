@@ -4,7 +4,7 @@ function App() {
   return (
     <div className='App'>
       <div className='Contenedor'>
-        <img className='imgQR' src={QR}/>
+        <img className='imgQR' alt="imgQR" src={QR}/>
         <h1>Improve your front-end<br/>skills by building projects</h1>
         <p>Scan the QR code to visit Frontend<br/>Mentor and take your coding skills to<br/>the next level</p>
       </div>
