@@ -51,6 +51,7 @@ p{
 
 .attribution{
   position: absolute;
+  display: none;
 }
 
 .attribution a{
