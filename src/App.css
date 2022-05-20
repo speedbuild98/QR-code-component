@@ -52,3 +52,8 @@ p{
 .attribution{
   position: absolute;
 }
+
+.attribution a{
+  text-decoration: none;
+  color: #FC7614;
+}
